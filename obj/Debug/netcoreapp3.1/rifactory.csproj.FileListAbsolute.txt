@@ -1,0 +1,13 @@
+E:\rifactory\bin\Debug\netcoreapp3.1\rifactory.exe
+E:\rifactory\bin\Debug\netcoreapp3.1\rifactory.deps.json
+E:\rifactory\bin\Debug\netcoreapp3.1\rifactory.runtimeconfig.json
+E:\rifactory\bin\Debug\netcoreapp3.1\rifactory.runtimeconfig.dev.json
+E:\rifactory\bin\Debug\netcoreapp3.1\rifactory.dll
+E:\rifactory\bin\Debug\netcoreapp3.1\rifactory.pdb
+E:\rifactory\obj\Debug\netcoreapp3.1\rifactory.csprojAssemblyReference.cache
+E:\rifactory\obj\Debug\netcoreapp3.1\rifactory.AssemblyInfoInputs.cache
+E:\rifactory\obj\Debug\netcoreapp3.1\rifactory.AssemblyInfo.cs
+E:\rifactory\obj\Debug\netcoreapp3.1\rifactory.dll
+E:\rifactory\obj\Debug\netcoreapp3.1\rifactory.pdb
+E:\rifactory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\rifactory\obj\Debug\netcoreapp3.1\rifactory.csproj.CopyComplete
